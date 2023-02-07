@@ -24,12 +24,5 @@ public class NotacaoPonto {
         // Tipos primitivos não tem operador "."
         int a = 3;
         System.out.println(a);
-
-
-
-
-
-
-
     }
 }

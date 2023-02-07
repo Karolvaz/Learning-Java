@@ -20,7 +20,6 @@ public class DesafioVariaveisConstantesFahrenheit {
         System.out.print(celsius);
 
         scanner.close();
-
     }
 }
 

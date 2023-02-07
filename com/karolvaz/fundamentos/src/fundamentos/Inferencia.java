@@ -28,7 +28,5 @@ public class Inferencia {
 
         var e = 123.45;
         System.out.println(e);
-
-
     }
 }
