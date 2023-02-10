@@ -7,10 +7,6 @@ package fundamentos;
  * @since JDK1.0
  */
 public class PrimeiroPrograma {
-    /**
-     *
-     * @param args
-     */
     public static void main (String[] args) {
 
         // Uma sentença de código termina com ;

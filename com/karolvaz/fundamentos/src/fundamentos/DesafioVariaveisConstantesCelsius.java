@@ -1,9 +1,9 @@
-package fundamentos;
+package fundamentos ;
 
-import java.util.Scanner;
+import java.util.Scanner ;
 
-public class DesafioVariaveisConstantesCelsius {
-    public static void main(String [] args) {
+public class DesafioVariaveisConstantesCelsius  {
+    public static void main(String [] args)  {
 
         // (°C x 1.8) + 32 = °F
         Scanner scanner = new Scanner(System.in);
