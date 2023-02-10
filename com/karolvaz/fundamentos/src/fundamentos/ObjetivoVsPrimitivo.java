@@ -1,6 +1,6 @@
 package fundamentos;
 
-public class PrimitivoVsObjetivo {
+public class ObjetivoVsPrimitivo {
     public static void main(String[] args) {
         String s = "texto";
         s = s.toUpperCase();
