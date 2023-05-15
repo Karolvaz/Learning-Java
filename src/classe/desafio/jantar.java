@@ -1,4 +1,4 @@
-package classeMetodos.desafio;
+package classe.desafio;
 
 public class jantar {
     public static void main(String[] args) {

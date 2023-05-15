@@ -1,4 +1,4 @@
-package classeMetodos.desafio;
+package classe.desafio;
 
 public class Pessoa {
 

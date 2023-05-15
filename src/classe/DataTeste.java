@@ -1,4 +1,4 @@
-package classeMetodos;
+package classe;
 
 public class DataTeste {
 
